@@ -23,8 +23,21 @@ h2{
     font-size: 20px;
     margin-right: 10px;
 }
-nav{
-  background-color: black;  
+ nav{
+    background-color: black;
+ }
+
+li{
+    display: inline;
+    float: left;
+    list-style: none;
+    margin-left: 40px;
+
+}
+li>a{
+    text-decoration: none;
+    padding: 3px;
+    color: black;
 }
 img{
     width: 600px;
@@ -35,4 +48,5 @@ img{
 main{
     background-color: rgba(143, 143, 143, 0.309);
     text-align:center ;
+    margin-top: 60px;
 }
