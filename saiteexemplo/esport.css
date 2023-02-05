@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(213, 211, 211);
+}
+header{
+    background-color:rgb(38, 79, 38);
+    margin: auto;
+    width: 900px;
+    padding: 4px;
+    border-radius: 20px;
+
+}
+h1{
+    font-family: 'Arial';
+    text-align: center;
+    color: whitesmoke;
+    padding: 20px;
+
+}
+nav{
+    background-color: rgb(15, 95, 15);
+    width: 100px;
+    text-align: center;
+}
+nav>a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+    font-family: 'Arial';
+    margin-bottom: 15px;
+}
+main{
+    background-color: rgb(146, 148, 146);
+}
+.titulonoticia{
+    width: 400px;
+    margin: auto;
+    margin-top: 5px;
+    font-size: 2em;
+    font-family: 'Arial';
+    padding: 6px;
+    text-align: center;
+}
+.noticia{
+    background-color: darkgrey;
+    width: 500px;
+    margin: auto;
+}
